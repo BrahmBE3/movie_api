@@ -27,3 +27,15 @@ Timestamp: Fri Mar 04 2022 10:43:33 GMT+0100 (Central European Standard Time)
 
 URL: /favicon.ico
 Timestamp: Fri Mar 04 2022 10:43:34 GMT+0100 (Central European Standard Time)
+URL: /
+Timestamp: Fri Mar 04 2022 13:28:05 GMT+0100 (Central European Standard Time)
+
+URL: /favicon.ico
+Timestamp: Fri Mar 04 2022 13:28:06 GMT+0100 (Central European Standard Time)
+
+URL: /documentation
+Timestamp: Fri Mar 04 2022 13:28:12 GMT+0100 (Central European Standard Time)
+
+URL: /favicon.ico
+Timestamp: Fri Mar 04 2022 13:28:13 GMT+0100 (Central European Standard Time)
+
